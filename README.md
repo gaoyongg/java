@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/gaoyongg0209/llll/_apis/build/status/EDGAO1019.Test?branchName=master)](https://dev.azure.com/gaoyongg0209/llll/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
